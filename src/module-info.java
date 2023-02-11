@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author LONGVU
+ *
+ */
+module array {
+}
